@@ -1,3 +1,3 @@
 # JS
 Proba
-JS tj learn
+JS to learn
